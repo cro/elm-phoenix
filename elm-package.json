@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "summary": "Phoenix helpers for working with Elm",
     "repository": "https://github.com/NoRedInk/elm-phoenix.git",
     "license": "BSD3",
